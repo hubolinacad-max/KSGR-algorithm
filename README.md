@@ -12,19 +12,35 @@ The code is provided to support transparency and reproducibility for the submitt
 
 ## Files
 
-- `KSGR_upload.ipynb`: Jupyter Notebook containing the implementation of the KSGR algorithm.
-- `requirements.txt`: Python dependencies required to run the code.
-- `LICENSE`: Open-source license for the repository.
-- `CITATION.cff`: Citation information for this code repository.
+* `KSGR_upload.ipynb`: Jupyter Notebook containing the implementation of the KSGR algorithm.
+* `requirements.txt`: Python dependencies required to run the code.
+* `LICENSE`: Open-source license for the repository.
+* `CITATION.cff`: Citation information for this code repository.
 
 ## Requirements
 
 The code was developed in Python and mainly depends on:
 
-- networkx
-- numpy
+* networkx
+* numpy
 
-To install the required packages, run:
+Required Python packages are listed in `requirements.txt`.
 
-```bash
-pip install -r requirements.txt
+## Usage
+
+The implementation is provided in the Jupyter Notebook file `KSGR_upload.ipynb`.
+
+To run the code, users may open the notebook in Jupyter Notebook or JupyterLab and execute the cells sequentially.
+
+## Data Availability
+
+The source code of the KSGR algorithm is also openly available in Science Data Bank:
+
+* DOI: https://doi.org/10.57760/sciencedb.37525
+* URL: https://www.scidb.cn/doi/10.57760/sciencedb.37525
+
+The network datasets analyzed in the manuscript are publicly available datasets cited in the manuscript.
+
+## License
+
+This project is licensed under the MIT License.

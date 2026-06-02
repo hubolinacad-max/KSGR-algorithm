@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and the Science Data Bank record."
+title: "KSGR Algorithm"
+authors:
+
+* family-names: "Zhao"
+  given-names: "Zi-Yue"
+* family-names: "Hu"
+  given-names: "Bo-Lin"
+  doi: "10.57760/sciencedb.37525"
+  url: "https://www.scidb.cn/doi/10.57760/sciencedb.37525"
+  date-released: 2026-05-25
+  license: "MIT"
